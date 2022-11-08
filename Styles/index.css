@@ -1,0 +1,27 @@
+/* Write css related to the Home page here  */
+#create{
+    text-align: center;
+    width:50%;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 20px;
+    box-shadow: 5px 5px 10px 10px rgb(224, 224, 224);
+}
+form{
+    width:80%;
+    padding:10px;
+    padding-top: 30px;
+    margin: auto;
+}
+input,select{
+    width:100%;
+    font-size: 25px;
+    margin-bottom:20px;
+}
+input:last-child{
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    border: 1px solid rgb(154, 154, 154);
+}
