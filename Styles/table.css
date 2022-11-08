@@ -1,0 +1,26 @@
+/* Write all the code related to the table here  */
+body{
+    text-align: center;
+}
+table{
+    margin: auto;
+    margin-top: 30px;
+    border:1px solid grey;
+    box-shadow: 5px 5px 10px 5px rgb(230, 230, 230);
+}
+th{
+    font-size: 20px;
+    padding:5px 20px 5px 20px ;
+    background-color: orange;
+    color: rgb(53, 53, 53);
+}
+tr{
+    margin:5px;
+    text-align: center;
+    border:1px solid orange;
+}
+
+#filter{
+    font-size: 20px;
+    margin-top: 20px;
+}
